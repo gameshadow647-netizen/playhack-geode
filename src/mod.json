@@ -1,0 +1,13 @@
+{
+    "geode": "3.3.0",
+    "id": "gameshadow647.playhack",
+    "version": "1.0.0",
+    "name": "PlayHack",
+    "developer": "gameshadow647-netizen",
+    "description": "Полезная утилита с чит-меню и счетчиком FPS для Geometry Dash.",
+    "resources": {
+        "fonts": [
+            "chatFont.fnt"
+        ]
+    }
+}
